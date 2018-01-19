@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android_heenali_software\EclipsewithSDK\AndroidSoftware\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Heenali\Desktop\New folder\spinner_WITH_idname\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_b5facd12b49ad50ea7d2da677b75a50e74957377.jar" />
+    </item>
+
+</items>

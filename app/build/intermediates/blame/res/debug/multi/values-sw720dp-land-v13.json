@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "D:\\Live_Update\\spinner\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "D:\\Live_Update\\spinner\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Heenali\\Desktop\\New folder\\spinner_WITH_idname\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\Heenali\\Desktop\\New folder\\spinner_WITH_idname\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 58,
+                        "endOffset": 259
+                    }
+                }
+            }
+        ]
+    }
+]
